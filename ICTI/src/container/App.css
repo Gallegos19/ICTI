@@ -11,9 +11,11 @@
 html {
   font-size: 62.5%;
   box-sizing: border-box;
-  scroll-snap-type: y mandatory;
 }
 
+a{
+  text-decoration: none;
+}
 *, *:before, *:after {
   box-sizing: inherit;
 }
@@ -155,12 +157,12 @@ header{
 }
 
 .hero {
-  background-image: url(/static/media/wineback.jpg);
+  background-image: url(../assets/wineback.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 400px;
   position: relative;
-  margin-bottom: 2rem;
+  margin-bottom: 0.3rem;
 }
 
 .contenido_hero{
