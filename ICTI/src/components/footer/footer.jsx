@@ -2,8 +2,8 @@ import logo from "../../assets/icti.png";
 import style from "./footer.module.css";
 import { MdContactSupport } from "react-icons/md";
 import { GiMaterialsScience } from "react-icons/gi";
-import { MdOutlineContactPhone } from "react-icons/md";
 import { IoChatbox } from "react-icons/io5";
+
 export default function footer() {
   return (
     <div className={style.containerFooter}>
