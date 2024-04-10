@@ -1,0 +1,17 @@
+
+# Niveles de dificultad
+dificultad_facil = 1
+dificultad_normal = 2
+dificultad_dificil = 3
+
+# Personajes disponibles
+personaje_1 = "Guerrero"
+personaje_2 = "Mago"
+personaje_3 = "Arquero"
+
+# Opciones de audio
+musica_activada = True
+efectos_sonido_activados = True
+
+# Idioma del juego
+idioma = "español"
